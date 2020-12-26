@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/bottom_nav_nearby"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_nearby"
+        android:id="@+id/nearby_id" />
+    <item
+        android:title="@string/bottom_nav_favorite"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_favorite"
+        android:id="@+id/favorite_id" />
+    <item
+        android:title="@string/bottom_nav_music"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_music"
+        android:id="@+id/music_id" />
+
+
+
+
+
+</menu>

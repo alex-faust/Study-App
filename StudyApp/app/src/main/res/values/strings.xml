@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Study App</string>
+    <string name="textToSpeechBtnText">TTS</string>
+    <string name="bottom_nav_nearby">nearby</string>
+    <string name="bottom_nav_favorite">favorite</string>
+    <string name="bottom_nav_music">music</string>
+</resources>
